@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gulfshoretrust.com/sitemap.xml
